@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.stayaliveexercice",                              
+  "displayName": "Stay Alive Exercice",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Basic facade and interface to play a drone in a linear bullet game. The rules is simple, try to survice a long as you can with code to learn C# in Unity3D. ",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2024_08_15_StayAliveExercice.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 

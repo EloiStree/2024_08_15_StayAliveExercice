@@ -1,0 +1,16 @@
+
+{                                                                   
+            "name": "be.eloistree.stayaliveexerciceEditor",          
+    "references": ["be.eloistree.stayaliveexercice"
+],                                                              
+    "optionalUnityReferences": [],                                  
+    "includePlatforms": [                                           
+        "Editor"                                                    
+    ],                                                              
+    "excludePlatforms": [],                                         
+    "allowUnsafeCode": false,                                       
+    "overrideReferences": false,                                    
+    "precompiledReferences": [],                                    
+    "autoReferenced": true,                                         
+    "defineConstraints": []                                         
+}                                                                   
