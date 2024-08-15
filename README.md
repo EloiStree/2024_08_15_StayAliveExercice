@@ -1,4 +1,4 @@
-# 2024_08_15_StayAliveExercice
+# Stay Alive Bullet Hell in C# Exercice
 You have two joysticks, a list of linear bullets, Good luck dodging 😊.
 
 **FR**: Le but de l'exercice est d'apprendre la programmation en jouant à un bullet hell.  
