@@ -1,5 +1,5 @@
 # 2024_08_15_StayAliveExercice
-You have two joysticks, a list of linear bullets, and when they appear. Good luck.
+You have two joysticks, a list of linear bullets, Good luck dodging 😊.
 
 **FR**: Le but de l'exercice est d'apprendre la programmation en jouant à un bullet hell.  
 Tout ce que vous avez est l'interface suivante; le reste, c'est à vous de coder votre survie et de déduire votre environnement.  
@@ -106,10 +106,12 @@ That said, I encourage you to create your own drone if you find it fun and want 
 
 ### Vanity Point
 
-**FR**:Dans d'autres exercices, nous créerons des niveaux pour maîtriser les bases de Unity3D. Les "vanity points" sont des cercles volants à travers lesquels vous devez passer pour accumuler des points de vanité. Bien qu'ils ne déterminent pas la victoire finale, seul le temps de survie étant pris en compte, ils offrent l'occasion parfaite de démontrer vos compétences en programmation. Montrez votre talent en guidant votre drone à travers les niveaux tout en esquivant les projectiles.
+![I am a leaf on the wind. Watch how I soar.](https://i.imgur.com/By9b2GP.gif)
+
+**FR**:Dans d'autres exercices, nous créerons des niveaux pour maîtriser les bases de Unity3D. Les "vanity points" sont des cercles volants à travers lesquels vous devez passer pour accumuler des points de vanité. Bien qu'ils ne déterminent pas la victoire finale, seul le temps de survie étant pris en compte, ils offrent l'occasion parfaite de démontrer vos compétences en programmation. Montrez votre talent en guidant votre drone à travers les niveaux tout en esquivant les projectiles. 💪
 
 
-**EN**:In other exercises, we will create levels to master the basics of Unity3D. "Vanity points" are flying rings that you must pass through to accumulate vanity points. While they don't determine the final victory, only your survival time does, they offer the perfect opportunity to showcase your coding skills. Impress everyone by navigating your drone through the levels while dodging projectiles.
+**EN**:In other exercises, we will create levels to master the basics of Unity3D. "Vanity points" are flying rings that you must pass through to accumulate vanity points. While they don't determine the final victory, only your survival time does, they offer the perfect opportunity to showcase your coding skills. Impress everyone by navigating your drone through the levels while dodging projectiles. 💪
 
 
 
