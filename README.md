@@ -53,3 +53,36 @@ public interface I_ProjectileSpawnListener {
         float colliderRadius);
 }
 ```
+
+
+
+
+# Bonus:
+## Créer votre propre drone
+
+Vous avez la possibilité de créer votre propre drone, à condition qu'il soit contrôlable à l'aide de deux joysticks. Toutefois, respectez les règles du jeu :
+
+- Pas de téléportation
+- Ne sortez pas des limites de la zone
+- Ne modifiez pas l'environnement ou les scripts du jeu
+
+Si vous vous demandez : "Est-ce que c'est de la triche ?", c'est probablement que vous ne respectez pas les conditions de l'exercice.
+
+Cela dit, je vous encourage vivement à créer votre propre drone si vous trouvez cela amusant et souhaitez apprendre à le faire 😁
+
+Here is the translated version:
+
+---
+
+# Create Your Own Drone
+
+You have the opportunity to create your own drone, as long as it can be controlled using two joysticks. However, make sure to follow the rules:
+
+- No teleportation
+- Stay within the designated area
+- Do not alter the environment or the game scripts
+
+If you’re wondering, "Is this cheating?" it likely means you’re not following the exercise’s conditions.
+
+That said, I encourage you to create your own drone if you find it fun and want to learn how to do it 😁
+
