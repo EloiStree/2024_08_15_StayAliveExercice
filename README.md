@@ -16,7 +16,8 @@ public interface I_FacadeStayAliveExerciceMono
 {
 
     /// <summary>
-    /// This should be calculated from projectile spawner to learn C#. But for beginners it is easier to use.
+    /// This should be calculated from projectile spawner to learn C#.
+    /// But for beginners it is easier to use.
     /// </summary>
     /// <param name="positions"></param>
     public void GetAllProjectilesPositions(out NativeArray<Vector3> positions);
