@@ -3,11 +3,11 @@ You have two joysticks, a list of linear bullets, and when they appear. Good luc
 
 **FR**: Le but de l'exercice est d'apprendre la programmation en jouant à un bullet hell.  
 Tout ce que vous avez est l'interface suivante; le reste, c'est à vous de coder votre survie et de déduire votre environnement.  
-Vous pouvez utiliser les casteurs de la classe Physics : [voir ici](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/70).
+Vous pouvez utiliser les casteurs de la classe Physics pour le décor : [voir ici](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/70).
 
 **EN**: The goal of the exercise is to learn programming by playing a bullet hell game.  
 All you have is the following interface; the rest is up to you to code your survival and deduce your environment.  
-You can use the casters from the Physics class: [see here](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/70).
+You can use the casters from the Physics class for the stage: [see here](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/70).
 
 
 ``` cs
@@ -36,6 +36,8 @@ public interface I_FacadeStayAliveExerciceMono
 
     public void AddRestartLevelListener(Action listener);
     public void RemoveRestartLevelListener(Action listener);
+
+    public void RaycastStageEnvironement(Vector3 origin, Vector3 direction, out Vector3 hitPoint, float maxDistance);
 }
 
 public interface I_ProjectileSpawnListener { 
