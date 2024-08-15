@@ -43,7 +43,7 @@ public interface I_ProjectileSpawnListener {
     public void OnProjectileSpawned(
         byte poolId,
         int poolItemIndex,
-        long dateUtcNowTicks,
+        long spawnDateUtcNowTicks,
         Vector3 startPosition,
         Quaternion startRotation,
         Vector3 startDirection,
