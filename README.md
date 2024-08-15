@@ -27,21 +27,27 @@ public interface I_FacadeStayAliveExerciceMono
     public void GetJoystickLeftVertical(out float value1to1);
     public void GetJoystickRightHorizontal(out float value1to1);
     public void GetJoystickRightVertical(out float value1to1);
+
     public void GetAllProjectilesPositions(out IEnumerator<Vector3> positions);
     public void AddProjectileSpawnListener(I_ProjectileSpawnListener listener);
     public void RemoveProjectileSpawnListener(I_ProjectileSpawnListener listener);
+
+    public void GetSurvivalTime(out float survivalTime);
+
+    public void AddRestartLevelListener(Action listener);
+    public void RemoveRestartLevelListener(Action listener);
 }
 
 public interface I_ProjectileSpawnListener { 
 
     public void OnProjectileSpawned(
-        byte m_poolId,
-        int m_poolItemIndex,
-        long m_dateUtcNowTicks,
-        Vector3 m_startPosition,
-        Quaternion m_startRotation,
-        Vector3 m_startDirection,
-        float m_speedInMetersPerSecond,
-        float m_colliderRadius);
+        byte poolId,
+        int poolItemIndex,
+        long dateUtcNowTicks,
+        Vector3 startPosition,
+        Quaternion startRotation,
+        Vector3 startDirection,
+        float speedInMetersPerSecond,
+        float colliderRadius);
 }
 ```
