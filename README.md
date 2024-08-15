@@ -88,7 +88,6 @@ Si vous vous demandez : "Est-ce que c'est de la triche ?", c'est probablement qu
 
 Cela dit, je vous encourage vivement à créer votre propre drone si vous trouvez cela amusant et souhaitez apprendre à le faire 😁
 
-Here is the translated version:
 
 ## Create Your Own Drone
 
