@@ -1,13 +1,14 @@
 # 2024_08_15_StayAliveExercice
 You have two joysticks, a list of linear bullets, and when they appear. Good luck.
 
-Le but de l'exercice est d'apprendre la programmation en jouant à un bullet hell.  
+**FR**: Le but de l'exercice est d'apprendre la programmation en jouant à un bullet hell.  
 Tout ce que vous avez est l'interface suivante; le reste, c'est à vous de coder votre survie et de déduire votre environnement.  
 Vous pouvez utiliser les casteurs de la classe Physics : [voir ici](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/70).
 
-The goal of the exercise is to learn programming by playing a bullet hell game.  
+**EN**: The goal of the exercise is to learn programming by playing a bullet hell game.  
 All you have is the following interface; the rest is up to you to code your survival and deduce your environment.  
 You can use the casters from the Physics class: [see here](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/70).
+
 
 ``` cs
 
