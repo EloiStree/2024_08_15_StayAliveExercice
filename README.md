@@ -36,9 +36,16 @@ public interface I_FacadeStayAliveExerciceMono
 
     public void AddRestartLevelListener(Action listener);
     public void RemoveRestartLevelListener(Action listener);
+    public void RaycastStageEnvironement(Vector3 origin, Vector3 direction, out bool hit, out Vector3 hitPoint, float maxDistance);
 
-    public void RaycastStageEnvironement(Vector3 origin, Vector3 direction, out Vector3 hitPoint, float maxDistance);
+
+    public void GetDroneProductName(out string droneProductName);
+    public void GetDroneCodeBehaviourId(out string droneCodeId);
+    public void GetDroneGitHubCodeUrl(out string droneGitHubCodeUrl);
 }
+
+
+
 
 public interface I_ProjectileSpawnListener { 
 
@@ -52,6 +59,8 @@ public interface I_ProjectileSpawnListener {
         float speedInMetersPerSecond,
         float colliderRadius);
 }
+
+
 ```
 
 
