@@ -27,6 +27,7 @@ public interface I_FacadeStayAliveExerciceMono
     public void AddProjectileSpawnListener(I_ProjectileSpawnListener listener);
     public void RemoveProjectileSpawnListener(I_ProjectileSpawnListener listener);
     public void RaycastStageEnvironement(Vector3 origin, Vector3 direction, out bool hit, out Vector3 hitPoint, float maxDistance);
+   // public void RaycastForProjectiles(Vector3 origin, Vector3 direction, out bool hit, out Vector3 hitPoint, float maxDistance);
     #endregion
 
 
